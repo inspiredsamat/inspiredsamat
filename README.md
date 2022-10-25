@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inspiredsamat
-- 👀 I’m interested in books in fantasy genre
+- 👀 I’m interested in books of fantasy genre
 - 🌱 I’m currently learning android development
 - 📫 How to reach me t.me/inspiredsamat
 
