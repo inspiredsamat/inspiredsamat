@@ -6,7 +6,7 @@
 - 👀 I’m interested in books of fantasy genre
 - 🌱 I’m currently learning android development
 
-<b>You can buy me coffee <a href='                    buymeacoffee.com/inspiredsamat                '>here<a/>
+<b>You can buy me coffee <a href='                    https://buymeacoffee.com/inspiredsamat                '>here<a/>
 
 [<img align="left" alt="inspiredsamat  | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 [<img align="left" alt="inspiredsamat  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
