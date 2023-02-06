@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+Guest;What+brought+you+here?)](https://git.io/typing-svg)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+<br>
 
 ![](https://komarev.com/ghpvc/?username=inspiredsamat)
 
@@ -12,6 +16,16 @@
 [<img align="left" alt="inspiredsamat  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="inspiredsamat  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inspiredsamat&hide_border=true&layout=compact" align="center" /></div>  
+
+<br>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=inspiredsamat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
