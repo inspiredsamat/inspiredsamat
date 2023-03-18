@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @inspiredsamat
 - 👀 I’m interested in books of fantasy genre
-- 🌱 In a few days (kudai kalasa) I will work at a startup called Equrylys
+- 🌱 Java Backend Developer in <a href="https://equrylys.kz">eQurylys</a>
 
 <b>You can buy me coffee <a href='https://buymeacoffee.com/inspiredsamat'>here</a></b>
 
