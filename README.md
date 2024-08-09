@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @inspiredsamat
 - 👀 I’m interested in books of fantasy genre
-- 🌱 Java Backend Developer in <a href="https://www.bcc.kz">Bank CenterCredit</a>
+- 🌱 Java Backend Developer in <a href="https://www.kcell.kz">Kcell</a>
 
 <b>You can buy me coffee <a href='https://buymeacoffee.com/inspiredsamat'>here</a></b>
 
